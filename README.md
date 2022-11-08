@@ -8,5 +8,5 @@ Specifically was inspired by Yakuza 1/2's follower camera.
 
 ![alt text](https://github.com/JackTheGopnik/Yakuza-Styled-Camera-System-Gmod/blob/main/Images/1.png)
 
-![alt text](https://github.com/JackTheGopnik/Yakuza-Styled-Camera-System-Gmod/blob/main/Images/Camera.mp4)
+![Video](https://streamable.com/162ew9)
 
