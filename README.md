@@ -6,5 +6,5 @@ Specifically was inspired by Yakuza 1/2's follower camera.
 
 ![alt text](https://raw.githubusercontent.com/JackTheGopnik/Yakuza-Styled-Camera-System-Gmod/main/Images/healthbar1.jpg)
 
-![alt text](https://raw.githubusercontent.com/JackTheGopnik/Yakuza-Styled-Camera-System-Gmod/main/Images/1.jpg)
-![alt text](https://raw.githubusercontent.com/JackTheGopnik/Yakuza-Styled-Camera-System-Gmod/main/Images/2.jpg)
+![alt text](https://github.com/JackTheGopnik/Yakuza-Styled-Camera-System-Gmod/blob/main/Images/1.png)
+![alt text](https://github.com/JackTheGopnik/Yakuza-Styled-Camera-System-Gmod/blob/main/Images/2.png)
